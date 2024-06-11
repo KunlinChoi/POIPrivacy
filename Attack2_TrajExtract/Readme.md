@@ -8,3 +8,6 @@
 4. Generate ground truth file by running "python attack2_generate_gt.py"
 5. Perform extraction "python attack2_extraction.py"
 6. Show the result "python matchextraction.py"
+
+## Notes
+1. Please refer to  [Main README](../README.md) for required packages.
