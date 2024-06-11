@@ -10,4 +10,4 @@
 6. Show the result "python matchextraction.py"
 
 ## Notes
-1. Please refer to  [Main README](../README.md) for required packages.
+1. Please refer to  [Main README](../README.md) for the required packages.
