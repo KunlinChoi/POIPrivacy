@@ -11,5 +11,5 @@
 
 ## Note:
 1. This attack example used the GETNext model, please refer to the model_batch.py file for details. Replace the victim model training process if needed.
-2. Please refer to  [Main README](../README.md) for required packages.
+2. Please refer to  [Main README](../README.md) for the required packages.
 
