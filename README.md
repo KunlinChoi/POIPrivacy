@@ -1,5 +1,5 @@
 # POIPrivacy
-This is a demo codebase for the paper "Where Have You Been? A Study of Privacy Risk for Point-of-Interest Recommendation". We have included the core functions for the attacks.
+This is the demo codebase for the KDD24 paper, 'Where Have You Been? A Study of Privacy Risk for Point-of-Interest Recommendation.' We have included examples of the core functions for the attacks in this repository.
 
 
 ## Note:
@@ -15,11 +15,6 @@ This repo has been tested under the following environment
 3. pyyaml
 4. scikit-learn
 5. networkx
-
-
-## More target models infomation
-1. Target Model 1 Repo: https://github.com/songyangme/GETNext
-2. Target Model 2 Repo: https://github.com/NLPWM-WHU/LSTPM
 
 
 
