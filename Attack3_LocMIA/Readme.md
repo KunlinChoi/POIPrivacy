@@ -8,6 +8,6 @@
 5. Query the shadow models by running **"Python attack3_shadowmodel.py"**
 6. Show the attack result by running **"Python draw_result.py"**
 
-## Notes
+## notes
 1. We have uploaded an example dataset in the repo, if you need to use your customized dataset, please follow our paper for the data preprocessing and place the shadow training dataset in ./dataset_4sq/lira/data folder
 2. Please refer to  [Main README](../README.md) for the required packages.
