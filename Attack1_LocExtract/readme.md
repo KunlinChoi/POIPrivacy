@@ -9,7 +9,7 @@
 6. Analysis the extraction and see the result by running "Python result_soft.py"  The result will be printed in the format of 
    acc1,acc3,acc5, total
 
-## Note:
+## Notes:
 1. This attack example used the GETNext model, please refer to the model_batch.py file for details. Replace the victim model training process if needed.
 2. Please refer to  [Main README](../README.md) for the required packages.
 
