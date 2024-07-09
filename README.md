@@ -24,7 +24,7 @@ If you find our work useful for your research, please consider citing the paper
 ```
 @article{cai2023have,
   title={Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation},
-  author={Cai, Kunlin and Zhang, Jinghuai and Shand, Will and Hong, Zhiqing and Wang, Guang and Zhang, Desheng and Chi, Jianfeng and Tian, Yuan},
+  author={Cai, Kunlin and Zhang, Jinghuai and Hong, Zhiqing and Shand, Will and Wang, Guang and Zhang, Desheng and Chi, Jianfeng and Tian, Yuan},
   journal={arXiv preprint arXiv:2310.18606},
   year={2023}
 }
