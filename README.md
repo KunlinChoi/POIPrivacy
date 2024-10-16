@@ -22,11 +22,12 @@ This repo has been tested under the following environment
 If you find our work useful for your research, please consider citing the paper
 
 ```
-@article{cai2023have,
+@inproceedings{cai2024have,
   title={Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation},
-  author={Cai, Kunlin and Zhang, Jinghuai and Hong, Zhiqing and Shand, Will and Wang, Guang and Zhang, Desheng and Chi, Jianfeng and Tian, Yuan},
-  journal={arXiv preprint arXiv:2310.18606},
-  year={2023}
+  author={Cai, Kunlin and Zhang, Jinghuai and Hong, Zhiqing and Shand, William and Wang, Guang and Zhang, Desheng and Chi, Jianfeng and Tian, Yuan},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={175--186},
+  year={2024}
 }
 ```
 
