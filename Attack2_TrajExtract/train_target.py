@@ -482,7 +482,7 @@ def train(args):
             train_batches_cat_loss_list.append(loss_cat.detach().cpu().numpy())
 
             # Report training progress
-            if (b_idx % (args.batch * 5)) == 0:
+            if (b_idx % 5) == 0:
                 sample_idx = 0
                 batch_pred_pois_wo_attn = y_pred_poi.detach().cpu().numpy()
                 logging.info(f'Epoch:{epoch}, batch:{b_idx}, '
@@ -610,7 +610,7 @@ def train(args):
             val_batches_cat_loss_list.append(loss_cat.detach().cpu().numpy())
 
             # Report validation progress
-            if (vb_idx % (args.batch * 2)) == 0:
+            if (vb_idx % 2) == 0:
                 sample_idx = 0
                 batch_pred_pois_wo_attn = y_pred_poi.detach().cpu().numpy()
                 logging.info(f'Epoch:{epoch}, batch:{vb_idx}, '
